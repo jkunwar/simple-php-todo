@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+h3{
+    text-align: center;
+}
+
+.todo{
+	margin-right: auto;
+	margin-left: auto;
+}
+.btn{
+	margin-top: 5px;
+}
+
+.table{
+    margin-top: 30px !important;
+}
+
+
+table tr th{
+	border-top: none !important;
+}
+
+table tr th, td{
+	text-decoration: none;
+	text-align: center;
+}
+
+.description{
+	text-align: left;
+}
+.blank{
+	text-align: center;
+	color: red;
+}
